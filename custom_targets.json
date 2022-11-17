@@ -1,7 +1,7 @@
 {
-    "ZEST_CORE_STM32H743ZI": {
+    "ZEST_CORE_STM32H743ZG": {
         "inherits": [
-            "MCU_STM32H743xI"
+            "MCU_STM32H743xG"
         ],
         "device_has_add": [
             "EMAC",
@@ -11,6 +11,6 @@
             "clock_source": "USE_PLL_HSE_XTAL",
             "network-default-interface-type": "ETHERNET"
         },
-        "device_name": "STM32H743ZITx"
+        "device_name": "STM32H743ZGTx"
     }
 }
