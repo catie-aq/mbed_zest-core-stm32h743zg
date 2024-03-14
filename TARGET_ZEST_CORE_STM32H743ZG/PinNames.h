@@ -261,7 +261,7 @@ typedef enum {
     P1_PWM1         = PA_3,
     P1_PWM2         = PA_6,
     P1_PWM3         = PB_0,
-    P1_PWM4         = PB_0,
+    P1_PWM4         = PB_1,
     P1_WKUP         = PA_0,
     P1_ADC1         = PF_3,
     P1_ADC2         = PF_4,
